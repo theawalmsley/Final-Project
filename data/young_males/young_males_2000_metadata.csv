@@ -1,0 +1,15 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_VC01,Number; Total population
+HC02_VC01,Percent; Total population
+HC01_VC03,Number; Total population - SEX AND AGE - Male
+HC02_VC03,Percent; Total population - SEX AND AGE - Male
+HC01_VC04,Number; Total population - SEX AND AGE - Female
+HC02_VC04,Percent; Total population - SEX AND AGE - Female
+HC01_VC08,Number; Total population - SEX AND AGE - 15 to 19 years
+HC02_VC08,Percent; Total population - SEX AND AGE - 15 to 19 years
+HC01_VC09,Number; Total population - SEX AND AGE - 20 to 24 years
+HC02_VC09,Percent; Total population - SEX AND AGE - 20 to 24 years
+HC01_VC10,Number; Total population - SEX AND AGE - 25 to 34 years
+HC02_VC10,Percent; Total population - SEX AND AGE - 25 to 34 years
